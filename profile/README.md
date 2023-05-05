@@ -1,6 +1,6 @@
 # Dynamic Web Studio
 
-![Dynamic Web Studio logo](https://avatars.githubusercontent.com/u/132398813?s=200&v=4)
+![Dynamic Web Studio logo](https://media.licdn.com/dms/image/C4E0BAQH6w8-OCcHERA/company-logo_200_200/0/1677086603305?e=1691625600&v=beta&t=iFU8051XgugQh3PZABSBOe1AKTBObv20jOIZdUWVeic)
 
 
 Welcome to Dynamic Web Studio on GitHub!
@@ -31,6 +31,6 @@ At Dynamic Web Studio, we believe in clear and effective communication with our 
 - Email: info@dynamicwebstudio.com
 - WhatsApp Business: +31 6 23280477
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/dynamic-web-studio/)
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/dynamicwebstudi)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/D_WebStudio)
 
 Please feel free to reach out to us using any of the above methods if you have any questions or inquiries about our services.
