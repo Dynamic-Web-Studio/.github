@@ -1,6 +1,6 @@
 # Dynamic Web Studio
 
-![Dynamic Web Studio logo]([https://twitter.com/D_WebStudio/photo])
+![Dynamic Web Studio logo](https://avatars.githubusercontent.com/u/132398813?s=200&v=4)
 
 
 Welcome to Dynamic Web Studio on GitHub!
