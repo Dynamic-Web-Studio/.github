@@ -29,7 +29,7 @@ We are proud to announce the launch of our new website! Please visit https://www
 At Dynamic Web Studio, we believe in clear and effective communication with our clients. We offer several methods of contact to ensure that our clients can easily reach us and receive prompt responses from our team.
 
 - Email: info@dynamicwebstudio.com
-- WhatsApp Business: +31 6 23280477
+- WhatsApp Business:
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/company/dynamic-web-studio/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/D_WebStudio)
 
